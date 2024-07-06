@@ -1,4 +1,4 @@
-# machine_learning_final_project
+# Spotify Tracks Genre Classification
 
 Welcome to the Spotify Tracks Genre Classification project! This repository contains the code and documentation for classifying music genres using machine learning models.
 
@@ -27,7 +27,7 @@ The dataset used in this project was sourced from the Spotify API and contains o
 Target Genres: EDM, Rock, Blue Notes.
 
 ## Methodology
-= Data Preprocessing: Cleaning the dataset, handling missing values, and normalizing features.
+- Data Preprocessing: Cleaning the dataset, handling missing values, and normalizing features.
 - Model Training: Training SVM, ANN, and XGBoost models with and without normalization.
 - Cross-Validation: Implementing k-fold cross-validation to evaluate model robustness.
 - Model Evaluation: Comparing model performance using metrics like accuracy, precision, recall, and F1-score.
